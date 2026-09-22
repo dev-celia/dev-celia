@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Celia!
 
-<!--
-**dev-celia/dev-celia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Currently coding in Python and building my path into software development.
 
-Here are some ideas to get you started:
+## 💻 What I can help with:
+- Automation scripts (Excel, reports, repetitive tasks)
+- Simple bots (Telegram, Discord)
+- Web scraping and data processing
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Currently:
+Growing my portfolio with real projects - check out my pinned repositories below
+
+## 📥 Contact
+celiabellvert@gmx.es
