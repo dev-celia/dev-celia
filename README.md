@@ -1,6 +1,6 @@
 # ✦ Hi, I'm Celia!
 
-Currently coding in Python🐍 and building my path into software development.
+Currently coding in Python and JavaScript and building my path into software development.
 
 ## ♡ What I can help with:
 - 💻Automation scripts (Excel, reports, repetitive tasks)
